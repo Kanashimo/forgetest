@@ -1,0 +1,17 @@
+[20:26:02] [main/INFO]: Setting user: Player781
+[20:26:02] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:26:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:examplemod
+[20:26:07] [Sound Library Loader/INFO]: Sound engine started
+[20:26:07] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[20:26:07] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[20:26:07] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:examplemod
+[20:26:07] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:26:08] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:26:08] [Sound Library Loader/INFO]: Sound engine started
+[20:26:49] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[20:26:49] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[20:26:53] [Server thread/INFO]: Loading properties
+[20:26:53] [Server thread/WARN]: server.properties does not exist
+[20:26:53] [Server thread/INFO]: Generating new properties file
+[20:26:53] [Server thread/WARN]: Failed to load eula.txt
+[20:26:53] [Server thread/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
